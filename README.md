@@ -11,3 +11,10 @@ A comprehensive toolkit for financial analytics, portfolio management, and priva
 
 ## Setup
 
+pip install -r requirements.txt
+
+
+## Usage
+
+- Run Jupyter notebooks in `notebooks/`
+- Launch dashboard with `streamlit run dashboard/app.py`
